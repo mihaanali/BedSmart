@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firstopt">Heart readings selected</string>
+    <string name="secondopt">Tempearture readings selected</string>
+    <string name="thirdopt">Breath readings selected</string>
+</resources>

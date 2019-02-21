@@ -1,0 +1,1 @@
+include ':BedSmartMod', ':app', ':base', ':instantapp'
